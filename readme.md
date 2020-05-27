@@ -8,5 +8,5 @@ An message will be sent after filling in the form containing the password to ope
 
 For more information on the task, see also the guidelines available in this repository, and the 
 [web page](http://www.di.unito.it/~tutreeb/kipos-evalita2020/index.html). 
-You can also join our Google group at [kipos-evalita2020@googlegroups.com] (https://groups.google.com/forum/#!forum/kipos-evalita2020)
+You can also join our Google group at [kipos-evalita2020@googlegroups.com](https://groups.google.com/forum/#!forum/kipos-evalita2020)
 
