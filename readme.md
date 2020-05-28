@@ -10,4 +10,5 @@ For more information on the task, see also the guidelines available in this repo
 [web page](http://www.di.unito.it/~tutreeb/kipos-evalita2020/index.html). 
 
 You can also join our Google group at [kipos-evalita2020@googlegroups.com](https://groups.google.com/forum/#!forum/kipos-evalita2020)
+
 For any question or problem, please start a topic on our googlegroup mailing list.
