@@ -8,7 +8,7 @@ This dataset is covered by the Creative Commons license provided in this reposit
 By filling in [this form](https://docs.google.com/forms/d/e/1FAIpQLSdNHWAWCAGyJCSA10dVcPjxl2cf5XCV2ZlfaZF0XHc5pPQsVg/viewform) you can accept the license and send us the request for the password for unzip the archive. It will be sent (by email) in a few time after filling in the form.
 
 For more information on the task, see also the guidelines available in this repository, and the 
-[web page](http://www.di.unito.it/~tutreeb/kipos-evalita2020/index.html). 
+[web page](http://www.di.unito.it/~tutreeb/kipos-evalita2020/index.html) of KIPOS. 
 
 You can also join our Google group at [kipos-evalita2020@googlegroups.com](https://groups.google.com/forum/#!forum/kipos-evalita2020)
 
