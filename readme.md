@@ -7,6 +7,9 @@ The development set is available for download (file KIPOS2020-DS_rel290520.zip i
 This dataset is covered by the Creative Commons license provided in this repository and it is released with a password-protected zip archive. 
 By filling in [this form](https://docs.google.com/forms/d/e/1FAIpQLSdNHWAWCAGyJCSA10dVcPjxl2cf5XCV2ZlfaZF0XHc5pPQsVg/viewform) you can accept the license and send us the request for the password for unzip the archive. It will be sent (by email) in a few time after filling in the form.
 
+## 3 July 2020 ##
+The silver standard data set is available for donwload (file KIPOS2020-silver_rel030720.zip in this repository).
+
 For more information on the task, see also the guidelines available in this repository, and the 
 [web page](http://www.di.unito.it/~tutreeb/kipos-evalita2020/index.html) of KIPOS2020. 
 
