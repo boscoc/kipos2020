@@ -17,14 +17,10 @@ By filling in [this form](https://docs.google.com/forms/d/e/1FAIpQLSdNHWAWCAGyJC
 Data are organized in files that correspond to single conversations. 
 The name of each file is composed according to the following pattern:
 
-- the first two letters correspond to the city where the recording was collected (TO = Torino and BO = Bologna)
+- the first two letters correspond to the city where the recording was collected: TO (Torino) and BO (Bologna)
 
-- folowing two characters corresponding to the type of activity:
-A1 = office hours
-A3 = random conversation
-C1 = exams
-D1 = lessons
-D2 = interviews
+- folowing two characters corresponding to the type of activity: A1 (office hours), A3 (random conversation), C1 (exams), D1 (lessons) and 
+D2 (interviews); for the aim of KIPOS2020 C1, A1 and D1 are considered FORMAL, while A3 and D2 are considered INFORMAL.
 
 ## Information and Website ##
 For more information on the task, see also the guidelines available in this repository, and the 
