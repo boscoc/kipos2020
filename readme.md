@@ -23,7 +23,7 @@ The name of each file is composed according to the following pattern:
 D2 (interviews); for the aim of KIPOS2020 C1, A1 and D1 are considered FORMAL, while A3 and D2 are considered INFORMAL.
 
 ## Information and Website ##
-For more information on the task, see also the guidelines available in this repository (LAST UPDATE JULT 3rd!!!), and the 
+For more information on the task, see also the guidelines available in this repository (LAST UPDATE JULY 3rd!!!), and the 
 [web page](http://www.di.unito.it/~tutreeb/kipos-evalita2020/index.html) of KIPOS2020. 
 
 You can also join our googlegroup at [kipos-evalita2020@googlegroups.com](https://groups.google.com/forum/#!forum/kipos-evalita2020). 
