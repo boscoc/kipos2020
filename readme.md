@@ -8,7 +8,7 @@ The DEVELOPMENT SET for KIPOS2020 includes data from the KIParla corpus tagged a
 ## 3 July 2020 ##
 The SILVER SET for KIPOS2020 includes a larger portion of data from the KIParla corpus automatically annotated but not manually revised (except for what concerns some systematic error). They can be also used for training and developing the systems that participate to the task.
 
-<div class="text-red">## 25 September 2020 ##
+<div class="text-red mb-2">## 25 September 2020 ##
 The TEST SET for KIPOS2020 includes data to be used for testing systems that participate to the task.</div>
 
 ## Data Download and License ##
